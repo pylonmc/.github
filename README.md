@@ -1,2 +1,0 @@
-# What is Pylon?
-Pylon is the (probably permanent) name for a new project entering the Minecraft plugin ecosystem. Pylon was created by veteran Slimefun addon developers, drawing inspiration from Slimefun, Nova, and our own plugins. We aim to create a new modern infrastructure and to learn from past experiences, both developer and consumer alike. Pylon also practices horizontal leadership, meaning development and management is spread out among many people, allowing Pylon to continue moving forward regardless of any sole individual.
