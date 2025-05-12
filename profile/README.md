@@ -1,2 +1,11 @@
 ## What is Pylon?
-Pylon is the (probably permanent) name for a new project entering the Minecraft plugin ecosystem. Pylon was created by veteran Slimefun addon developers, drawing inspiration from Slimefun, Nova, and our own plugins. We aim to create a new modern infrastructure and to learn from past experiences, both developer and consumer alike. Pylon also practices horizontal leadership, meaning development and management is spread out among many people, allowing Pylon to continue moving forward regardless of any sole individual.
+Pylon is a work-in-progress Minecraft Java plugin intended as a successor to Slimefun, in active development since January 2025 by a group of veteran Slimefun developers, contributors, and server administrators.
+
+If you are interested in helping development, or making an addon, let us know and we can help you get started!
+
+Pylon is split into two main parts: core and base. Pylon Core is a library which provides everything needed to make new content, while Pylon Base adds a bunch of new content. Pylon Core uses an addon system, much like Slimefun - in fact, Pylon Base is a Pylon addon. This means developers will be able to create their own addons and easily take advantage of Pylon's wealth of features.
+
+## Links
+Discord: https://discord.gg/4tMAnBAacW
+Github: https://github.com/pylonmc
+Documentation (WIP): https://pylonmc.github.io/
