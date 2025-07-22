@@ -1,11 +1,10 @@
 ## What is Pylon?
-Pylon is a work-in-progress Minecraft Java plugin intended as a successor to Slimefun, in active development since January 2025 by a group of veteran Slimefun developers, contributors, and server administrators.
+Pylon is an upcoming Minecraft Java plugin that will hugely expand vanilla gameplay with new content, including electric machines, huge multiblocks, a fully-fledged fluid system, a complex smelting system, extensive automation options and much, an (actually good) research system, and much more. It is intended to supersede Slimefun.
 
-If you are interested in helping development, or making an addon, let us know and we can help you get started!
+Pylon uses an addon system, meaning anyone can add content to Pylon by writing an addon for it! It also comes with a number of really useful features, such as:
+- First-class translation support, meaning each player can select their own language.
+- Extensive configuration options, including per-machine configuration. 
+- An intuitive and user-friendly guide to help players figure out the plugin.
 
-Pylon is split into two main parts: core and base. Pylon Core is a library which provides everything needed to make new content, while Pylon Base adds a bunch of new content. Pylon Core uses an addon system, much like Slimefun - in fact, Pylon Base is a Pylon addon. This means developers will be able to create their own addons and easily take advantage of Pylon's wealth of features.
-
-## Links
+## Join our Discord server to find out more
 Discord: https://discord.gg/4tMAnBAacW  
-Github: https://github.com/pylonmc  
-Documentation (WIP): https://pylonmc.github.io/
