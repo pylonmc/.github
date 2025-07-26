@@ -6,6 +6,10 @@ Pylon uses an addon system, meaning anyone can add content to Pylon by writing a
 - Extensive configuration options, including per-machine configuration. 
 - An intuitive and user-friendly guide to help players figure out the plugin.
 
+## Find out more
+Join our Discord: https://discord.gg/4tMAnBAacW  
+Visit our website: https://pylonmc.github.io/
+
 ## Pylon in pictures
 <img width="1866" height="1023" alt="using-smeltery" src="https://github.com/user-attachments/assets/b8a7ba3c-9103-46a5-ab43-f31de08dd492" />
 <img width="1866" height="1023" alt="using-magic-altar" src="https://github.com/user-attachments/assets/fd1d4ed9-3f1e-491a-ac73-2be9bb172e53" />
@@ -19,9 +23,3 @@ Pylon uses an addon system, meaning anyone can add content to Pylon by writing a
 <img width="1713" height="913" alt="hydraulic-fluid-setup" src="https://github.com/user-attachments/assets/3d73e3c9-dc29-4ccd-a34d-038f5a916e84" />
 <img width="915" height="239" alt="hovering-over-research-pack" src="https://github.com/user-attachments/assets/522f3252-d7af-4306-aeca-0dac43857277" />
 <img width="1455" height="798" alt="fluid-setup" src="https://github.com/user-attachments/assets/5a86a0e1-6321-4fa6-8452-292b033a6158" />
-
-## Find out more on our website
-https://pylonmc.github.io/
-
-## Join our Discord server
-Discord: https://discord.gg/4tMAnBAacW  
